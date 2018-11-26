@@ -1,0 +1,9 @@
+com\creditsuisse\eventfilereader\service\EventService.class
+com\creditsuisse\eventfilereader\service\JsonParserEventBuilderBean.class
+com\creditsuisse\eventfilereader\repository\EventRepository.class
+com\creditsuisse\eventfilereader\service\EventFileReaderBean.class
+com\creditsuisse\eventfilereader\service\EventServiceBean.class
+com\creditsuisse\eventfilereader\service\JsonParserEventBuilder.class
+com\creditsuisse\eventfilereader\model\Event.class
+com\creditsuisse\eventfilereader\service\EventFileReader.class
+com\creditsuisse\eventfilereader\SpringBootConsoleApplication.class
